@@ -9,3 +9,9 @@ Start of story
 Help
 
 End of story
+
+Second story
+
+Hurricanes
+
+End of second story
