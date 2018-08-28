@@ -3,3 +3,9 @@ Text text text text text
 More text
 
 End of text
+
+Start of story
+
+Help
+
+End of story
